@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+    color: #fff;
+}
+
+button a {
+    text-decoration: none;
+    color: green;
+    margin-top: 1rem;
+    font-size: 20px;
+}
+
